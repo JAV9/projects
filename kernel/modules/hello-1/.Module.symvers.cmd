@@ -1,1 +1,0 @@
-savedcmd_/home/javi/Documents/kernel/modules/hello-1/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/javi/Documents/kernel/modules/hello-1/Module.symvers -T /home/javi/Documents/kernel/modules/hello-1/modules.order -i Module.symvers -e 

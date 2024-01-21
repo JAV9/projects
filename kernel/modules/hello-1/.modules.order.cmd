@@ -1,1 +1,0 @@
-savedcmd_/home/javi/Documents/kernel/modules/hello-1/modules.order := {   echo /home/javi/Documents/kernel/modules/hello-1/hello-1.o;   echo /home/javi/Documents/kernel/modules/hello-1/hello-2.o; :; } > /home/javi/Documents/kernel/modules/hello-1/modules.order
