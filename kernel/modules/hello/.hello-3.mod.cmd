@@ -1,1 +1,0 @@
-savedcmd_/home/javi/Documents/proyectos/kernel/modules/hello/hello-3.mod := printf '%s\n'   hello-3.o | awk '!x[$$0]++ { print("/home/javi/Documents/proyectos/kernel/modules/hello/"$$0) }' > /home/javi/Documents/proyectos/kernel/modules/hello/hello-3.mod
