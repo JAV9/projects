@@ -17,7 +17,9 @@
 **Warning**:
 ```
 Be cautious of using the less-than symbol (<). 
-`if [[ $VAL < $OTHR ]]`
+
+if [[ $VAL < $OTHR ]]
+
 In this context, the less-than operator uses lexical (alphabetical) ordering.
 That means that 12 is less than 2
 ```
