@@ -57,7 +57,6 @@ class Solution:
         return n == 0
 
         
-    
 fb = [1,0,0,0,1]
 n = 1
 Solution().canPlaceFlowers(fb, n)
